@@ -54,7 +54,7 @@ kramdown:
 # 评论系统
 # Gitalk
 gitalk:
-  enable: false    
+  enable: true    
   clientID: f1feb45f9090904c052e                           
   clientSecret: ad843611f7626a92b563cdb07dc430b08d41eed9    
   repo: oliviayouare.github.io
