@@ -12,7 +12,7 @@ github_repo: "https://github.com/oliviayouare/oliviayouare.github.io.git"
 # Sidebar settings
 sidebar: true                          
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-m.jpg      
+sidebar-avatar: /img/1_kKG86FEw2XG-NL5Qqg9vhw.jpeg      
 
 
 
@@ -29,7 +29,7 @@ facebook_username:  Olivia Yang
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: true                         
 
 
 
@@ -54,7 +54,7 @@ kramdown:
 # 评论系统
 # Gitalk
 gitalk:
-  enable: true    
+  enable: false    
   clientID: f1feb45f9090904c052e                           
   clientSecret: ad843611f7626a92b563cdb07dc430b08d41eed9    
   repo: oliviayouare.github.io
