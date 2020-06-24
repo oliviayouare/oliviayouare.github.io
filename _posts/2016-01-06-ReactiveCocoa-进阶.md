@@ -1,15 +1,14 @@
 ---
 layout:     post
-title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
-date:       2017-01-06
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+title:      投资品与消费品
+subtitle:   房子是投资还是消费？
+date:       2020-06-24
+author:     姣姣
+header-img: img/Room_506_9336-1024x703.jpg
 catalog: true
 
 ---
-# 前言
+# 投资or消费
 
 
 
->最后附上GitHub：<https://github.com/qiubaiying/ReactiveCocoa_Demo>
